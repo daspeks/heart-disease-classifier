@@ -1,4 +1,5 @@
-# heart-disease-classifier
+# Classifying patients with coronary heart disease 
+![](https://img.shields.io/github/repo-size/daspeks/heart-disease-classifier)
 
 The project aims to identify potential patients with coronary heart disease and without.
 
